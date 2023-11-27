@@ -1,4 +1,8 @@
-# Telco Customer Churn Prediction
+# Ralston Portfolio
+
+Data Science porfolio
+
+# [Project 1: Telco Customer Churn Prediction](https://github.com/MrKome/DS_Churn_Project/tree/main)
 
 ### Project Overview 
 
