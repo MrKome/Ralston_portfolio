@@ -2,7 +2,7 @@
 
 Data Science porfolio
 
-# [Project 1: Telco Customer Churn Prediction](https://github.com/MrKome/DS_Churn_Project/tree/main)
+# [Project 2: Telco Customer Churn Prediction](https://github.com/MrKome/DS_Churn_Project/tree/main)
 
 ### Project Overview 
 
