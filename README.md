@@ -1,8 +1,52 @@
-# Ralston Portfolio
-
 Data Analyst porfolio
 
-# [Project 1: Displaying Live System Performance using Power BI, SQL and Python ](https://github.com/MrKome/System_info_performance_Monitor)
+# [Project 1: Store Sales Analysis](https://github.com/MrKome/Store_Sales_Analysis)
+
+### Project Overview 
+
+This project walks through the process of conducting in-depth sales analysis on a dataset using NumPy. It covers the intricacies of data handling, including uploading and storing a Sales dataset, and delving into data cleaning and normalisation techniques. 
+
+This project covers concepts like statistical analysis, exploring concepts like mean, median, and standard deviation.
+
+Overview: 
+
+- Upload the csv file into google colab virtual memory
+- Read file using NumPy and store it into an array 
+- Perform data cleaning
+- Perform data normalisation
+- Perfom statistical analysis
+- Perform sales analysis such as: best selling product, or product category
+- Display data and analysis on charts using matplotlib 
+
+
+### Data Source
+
+The csv file used 'Sales_Numpy.csv' has been added to the repository. 
+
+
+### Tools 
+
+- Python
+
+### Results/Findings
+
+- Best selling product in January 2023 is Nightgowns
+- Best selling category in January 2023 is Accessories
+- The overall Average sales: 1502.42
+- Average Sales based on product (Nightgowns): 1583.3870967741937
+
+
+### Scatter plot showing the relationship between Advertisment Expenses and Sales for January 2023
+![](./images/SnA%20Plot%201.png)
+
+### Bar chart showing the total sales by Product for January 2023
+![](./images/T_sales_by_Product.png)
+
+### Bar chart showing the total sales by Product Category for January 2023
+![](./images/T_sales_by_Product_Cat.png)
+
+
+# [Project 2: Displaying Live System Performance using Power BI, SQL and Python ](https://github.com/MrKome/System_info_performance_Monitor)
 
 ### Project Overview 
 
@@ -32,7 +76,7 @@ Python script is used to read system performance information such as:
 
 
 
-# [Project 2: Telco Customer Churn Prediction](https://github.com/MrKome/DS_Churn_Project/tree/main)
+# [Project 3: Telco Customer Churn Prediction](https://github.com/MrKome/DS_Churn_Project/tree/main)
 
 ### Project Overview 
 
