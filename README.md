@@ -27,7 +27,7 @@ Python script is used to read system performance information such as:
 
 ### Preview of Live Power BI Dashboard
 
-![](/images/Sys_Info_Perf_Mon%20Snapshot.jpg)
+![](./images/Sys_Info_Perf_Mon%20Snapshot.jpg)
 
 
 
@@ -56,12 +56,12 @@ EDA involved exploring the customer churn data to answer key questions, such as:
 - Can we visualise the churn count for the internet service to see a correlation?
 
 #### We explored the distribution of data and the value count for the both male and females
-![](/images/Customer%20Churn%20Count.png)
+![](./images/Customer%20Churn%20Count.png)
 
 
 
 #### We also looked at the distribution of data and the value count for the internet service
-![](/images/Churn%20count%20for%20Internet%20Service.png)
+![](./images/Churn%20count%20for%20Internet%20Service.png)
 
 
 ### Data Cleaning
