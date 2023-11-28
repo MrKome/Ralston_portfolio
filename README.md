@@ -46,6 +46,9 @@ The csv file used 'Sales_Numpy.csv' has been added to the repository.
 ![](./images/T_sales_by_Product_Cat.png)
 
 
+---
+
+
 # [Project 2: Displaying Live System Performance using Power BI, SQL and Python ](https://github.com/MrKome/System_info_performance_Monitor)
 
 ### Project Overview 
@@ -74,7 +77,7 @@ Python script is used to read system performance information such as:
 ![](./images/Sys_Info_Perf_Mon%20Snapshot.jpg)
 
 
-
+---
 
 # [Project 3: Telco Customer Churn Prediction](https://github.com/MrKome/DS_Churn_Project/tree/main)
 
