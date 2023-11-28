@@ -1,6 +1,6 @@
 # Ralston Portfolio
 
-Data Science porfolio
+Data Analyst porfolio
 
 # [Project 1: Displaying Live System Performance using Power BI, SQL and Python ](https://github.com/MrKome/System_info_performance_Monitor)
 
