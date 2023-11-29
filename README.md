@@ -4,7 +4,7 @@
 
 ## Education			       		
 - M.Sc., Computing	| Sheffiled Hallam University (_October 2020_)	 			        		
-- B.A., Marketing | Manchester Metropolitan University (_May 2015_)
+- B.A., Marketing | Manchester Metropolitan University (_July 2015_)
 
 ## Work Experience
 **Data Analyst @ Engie (_August 2022 - Present_)**
@@ -12,7 +12,7 @@
 - Designed, developed and launched a churn prediction system that detects early warning signs of customer churn which impacted 89% of active accounts
   
 
-**Data Anaylt @ Global Data (_January 2021 - August 2022_)**
+**Data Analyst @ Global Data (_January 2021 - August 2022_)**
 - Conducted researcher interviews, data collection, processing, and analysis for Latin American beverage data. Data is fed through to in-house database and used to build market sizing and competitor reports – content is distributed to subscribers through the Global Data Intelligence Center.
 - Analysed historical pricing data and leveraged customer feedback to fine-tune pricing structures
 
@@ -99,11 +99,14 @@ Python script is used to read system performance information such as:
 
 ---
 
-# [Project 3: Telco Customer Churn Prediction](https://github.com/MrKome/DS_Churn_Project/tree/main)
+## [3. Telco Customer Churn Prediction](https://github.com/MrKome/DS_Churn_Project/tree/main)
 
 ### Overview 
 
 This project aims to predict Telco customer churn and provide insight into the performance of a company. By analysing various aspects of the data, we seek to identify trends and gain an understanding of the company's performance. 
+
+#### Distribution of data and the value count for Gender
+![](./images/Customer%20Churn%20Count.png)
 
 ### Data Source
 
@@ -122,12 +125,8 @@ EDA involved exploring the customer churn data to answer key questions, such as:
 - Can we visualise the churn count for both male and females to see a correlation?
 - Can we visualise the churn count for the internet service to see a correlation?
 
-#### We explored the distribution of data and the value count for the both male and females
-![](./images/Customer%20Churn%20Count.png)
 
-
-
-#### We also looked at the distribution of data and the value count for the internet service
+#### Distribution of data and the value count for the Internet Service
 ![](./images/Churn%20count%20for%20Internet%20Service.png)
 
 
