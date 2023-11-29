@@ -1,14 +1,37 @@
-Data Analyst porfolio
+# Data Analyst
 
-# [Project 1: Store Sales Analysis](https://github.com/MrKome/Store_Sales_Analysis)
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-### Project Overview 
+## Education			       		
+- M.Sc., Computing	| Sheffiled Hallam University (_October 2020_)	 			        		
+- B.A., Marketing | Manchester Metropolitan University (_May 2015_)
+
+## Work Experience
+**Data Analyst @ Engie (_August 2022 - Present_)**
+- Redeveloped REGO sales model which resulted in 35% improvement in model performance and saving 1 million dollars in potential losses
+- Designed, developed and launched a churn prediction system that detects early warning signs of customer churn which impacted 89% of active accounts
+  
+
+**Data Anaylt @ Global Data (_January 2021 - August 2022_)**
+- Conducted researcher interviews, data collection, processing, and analysis for Latin American beverage data. Data is fed through to in-house database and used to build market sizing and competitor reports – content is distributed to subscribers through the Global Data Intelligence Center.
+- Analysed historical pricing data and leveraged customer feedback to fine-tune pricing structures
+
+## Projects
+
+### [1. Store Sales Analysis](https://github.com/MrKome/Store_Sales_Analysis)
+
+### Overview 
 
 This project walks through the process of conducting in-depth sales analysis on a dataset using NumPy. It covers the intricacies of data handling, including uploading and storing a Sales dataset, and delving into data cleaning and normalisation techniques. 
 
 This project covers concepts like statistical analysis, exploring concepts like mean, median, and standard deviation.
 
-Overview: 
+
+![](./images/SnA%20Plot%201.png)
+#### Scatter plot showing the relationship between Advertisment Expenses and Sales for January 2023
+
+
+### Walkthrough: 
 
 - Upload the csv file into google colab virtual memory
 - Read file using NumPy and store it into an array 
@@ -35,25 +58,25 @@ The csv file used 'Sales_Numpy.csv' has been added to the repository.
 - The overall Average sales: 1502.42
 - Average Sales based on product (Nightgowns): 1583.3870967741937
 
-
-### Scatter plot showing the relationship between Advertisment Expenses and Sales for January 2023
-![](./images/SnA%20Plot%201.png)
-
-### Bar chart showing the total sales by Product for January 2023
+#### Total sales by Product for January 2023
 ![](./images/T_sales_by_Product.png)
 
-### Bar chart showing the total sales by Product Category for January 2023
+#### Total sales by Product Category for January 2023
 ![](./images/T_sales_by_Product_Cat.png)
 
 
 ---
 
 
-# [Project 2: Displaying Live System Performance using Power BI, SQL and Python ](https://github.com/MrKome/System_info_performance_Monitor)
+## [2. Displaying Live System Performance using Power BI, SQL and Python ](https://github.com/MrKome/System_info_performance_Monitor)
 
-### Project Overview 
+### Overview 
 
 This project Shows the subsequent steps following the development of a new database in Microsoft SQL Server Importing Python system. It covers using Python to get system performance informationand, Testing Application, Connertiing Power BI to SQL Server, Creating Power BI Dashboard and Testing the final results.
+
+### Live Power BI Dashboard
+
+![](./images/Sys_Info_Perf_Mon%20Snapshot.jpg)
 
 ### Data Source
 
@@ -72,16 +95,13 @@ Python script is used to read system performance information such as:
 
 - Python, Microsoft SQL Server, Power BI
 
-### Preview of Live Power BI Dashboard
-
-![](./images/Sys_Info_Perf_Mon%20Snapshot.jpg)
 
 
 ---
 
 # [Project 3: Telco Customer Churn Prediction](https://github.com/MrKome/DS_Churn_Project/tree/main)
 
-### Project Overview 
+### Overview 
 
 This project aims to predict Telco customer churn and provide insight into the performance of a company. By analysing various aspects of the data, we seek to identify trends and gain an understanding of the company's performance. 
 
